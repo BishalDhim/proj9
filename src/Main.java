@@ -60,7 +60,7 @@ public class Main {
 
         System.out.println("The value " + searchValue + " appears " + count + " time(s) in the array.");
         System.out.println();
-        
+
         int searchValue2 = InputHelper.getRangedInt(
                 scan,
                 "Enter another value between 1 and 100 to search for:",
